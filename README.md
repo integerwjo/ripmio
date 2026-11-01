@@ -43,4 +43,4 @@ The example expects an HTTP server listening on `localhost:8080` (the request pa
 
 ## Platform support
 
-Linux only — the implementation relies on `epoll`.
+Linux only
